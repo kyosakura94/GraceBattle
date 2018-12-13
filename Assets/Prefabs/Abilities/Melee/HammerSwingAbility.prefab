@@ -55,3 +55,5 @@ MonoBehaviour:
   attackDescription: The most powerful weapton
   attackDamage: 50
   attackCost: 0
+  spiteImageButton: {fileID: 0}
+  Attacktype: skill01

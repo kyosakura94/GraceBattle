@@ -55,3 +55,5 @@ MonoBehaviour:
   attackDescription: Basic Fire Spell Burn Souls
   attackDamage: 50
   attackCost: 10
+  spiteImageButton: {fileID: 0}
+  Attacktype: skill01
